@@ -1,0 +1,9 @@
+[gd_scene load_steps=2 format=3 uid="uid://bf0x1s5lu7c6i"]
+
+[ext_resource type="Texture2D" uid="uid://dil0k4ojm4lpr" path="res://bunny_peluche.png" id="1_66xwl"]
+
+[node name="MainScene" type="Node2D"]
+
+[node name="BunnyPeluche" type="Sprite2D" parent="."]
+position = Vector2(270, 297)
+texture = ExtResource("1_66xwl")
