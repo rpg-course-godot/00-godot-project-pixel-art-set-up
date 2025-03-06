@@ -1,1 +1,1 @@
-# 00_pixel_art_godot_project_set_up
+# 00-pixel-art-godot-project-set-up
