@@ -7,7 +7,7 @@
     <img src="readme/logo.jpg" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">Pixel Art [Project Set Up]</h3>
+<h3 align="center">Pixel Art Project Set Up</h3>
 
   <p align="center">
     Questa repository consiste in un progetto Godot già pre-impostato per essere utilizzato come base per la realizzazione di un videogioco pixel art.
