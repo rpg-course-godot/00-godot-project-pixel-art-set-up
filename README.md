@@ -46,17 +46,13 @@
 
 <!-- ABOUT THE PROJECT -->
 ## Cosa si cela dietro ai pixel: imparare a programmare sviluppando un RPG
-Il materiale didattico dal titolo "*Cosa si cela dietro ai pixel: imparare a programmare sviluppando un RPG*" è stato realizzato con lo scopo di fornire un punto di partenza per tutti coloro che intendono approcciarsi alla programmazione e consiste in un manuale di programmazione e del codice suppletivo basati interamente su un videogioco completo che verrà rilasciato a breve sulle maggiori piattaforme, come ad esempio Steam.
+Il materiale didattico *"Cosa si cela dietro ai pixel: imparare a programmare sviluppando un RPG"* è un modo creativo per introdurre alla programmazione i principianti, tramite un manuale e codice di esempio, basati su un videogioco in uscita su Steam.
 
-La tecnica che si è scelto di utilizzare è appunto quella di insegnare a programmare mediante la realizzazione di un videogioco, confidando di riuscire a stimolare la curiosità e la fantasia dei lettori tramite vicende e personaggi immaginari. Domande del tipo "*Come posso far volare questo personaggio?*", "*Come posso fare in modo che possa usare una spada per difendersi e combattere?*", "*Come si realizza una mappa del mondo?", "Come posso implementare un inventario?*" oppure ancora "*Come faccio a far sì che i nemici attacchino il giocatore?*", sono quelle che porteranno a volare verso nuovi orizzonti.
+Ciascun capitolo si apre con una scena del gioco completato, la quale viene analizzata al fine di scomporla in componenti che saranno poi oggetto di sviluppo.
 
-Ogni capitolo di spiegazione di sviluppo di codice si apre con una sezione di introduzione, nella quale viene descritta una scena del videogioco finito, al cui interno è presente la componente che si intende realizzare nel corso della sezione stessa. Questa componente viene poi a sua volta scomposta in sottocomponenti che rappresentano gli argomenti che si andranno a trattare nelle pagine successive.
+Il manuale fornisce repository iniziali e finali per ogni capitolo, facilitando l'apprendimento pratico. 
 
-Ogni capitolo del manuale presenta, inoltre, una repository iniziale, che lo studente è chiamato a utilizzare per partire con lo sviluppo, e una finale, per confrontare il codice.
-
-Per quanto riguarda invece l'approccio utilizzato nella spiegazione vera e propria; i concetti di programmazione come le funzioni o i costrutti vengono introdotti man mano che li si deve utilizzare all'interno del codice. Per fare un esempio, quando si sta spiegando il codice che permette al giocatore di muovere il personaggio in Godot, si introduce al lettore il concetto di costante e variabile nella programmazione, si fanno vedere alcuni esempi e casi d'uso e, infine, si procede a spiegare in maniera dettagliata il concetto di scope e le sue varie tipologie.
-
-Per assicurarsi che il lettore del manuale abbia messo bene a mente i concetti visti e fare in modo di fargli sviluppare un ragionamento logico in modo costante e graduale nel tempo, inoltre, a ogni fine capitolo è presente una sezione "*Esercizi*" in cui viene richiesto di realizzare alcune delle feature del videogioco che, poiché molto simili ad altre già trattate, non vengono incluse all'interno del manuale.
+I concetti di programmazione sono introdotti gradualmente, con esempi e casi d'uso, come nel caso della spiegazione di variabili e scope durante la creazione del player.
 
 <p align="right">(<a href="#readme-top">torna su</a>)</p>
 
